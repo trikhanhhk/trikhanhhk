@@ -5,6 +5,10 @@
 
 ## Programming Languages & Frameworks
 
+## 📈 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=trikhanhhk&show_icons=true&theme=radical)
+
 | Language / Framework |  | Language / Framework |  |
 | -------------------- | ---- | -------------------- | ---- |
 | React.js             | ![React.js](https://img.icons8.com/ultraviolet/40/000000/react.png) | Java Spring Boot     | ![Java Spring Boot](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
