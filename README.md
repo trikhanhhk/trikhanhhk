@@ -17,8 +17,6 @@
 |     NPM     |     Email   |
 |-------------|-------------|
 |[![npm](https://img.icons8.com/color/48/000000/npm.png)](https://www.npmjs.com/~khanhtk0038)|[![Email](https://img.icons8.com/ios-filled/50/000000/secured-letter.png)](trikhanhtk0038@gmail.com)|
-## Contact me
-- **Email**: 
 
 
 
