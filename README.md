@@ -15,8 +15,8 @@
 | TypeScript           | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)   | Nest.js              | ![Nest.js](https://img.icons8.com/color/48/000000/nestjs.png) |
 | C                    | ![C](https://img.icons8.com/color/48/000000/c-programming.png)         | HTML                 | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) |
 | CSS                  | ![CSS](https://img.icons8.com/color/48/000000/css3.png)                 | JavaScript           | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
-| MySQL                | ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) | Express              | ![Express](https://img.icons8.com/color/48/000000/express.png) |
-| PostgreSQL           | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) |
+| Node.js              | ![Node.js](https://nodejs.org/static/logos/nodejsLight.svg) | Express              | ![Express](https://img.icons8.com/color/48/000000/express.png) |
+| PostgreSQL           | ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) | MySQL                | ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) |
 
 |     NPM     |     Email   |
 |-------------|-------------|
